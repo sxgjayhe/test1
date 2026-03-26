@@ -1,0 +1,9 @@
+Version: 1.112.0 (user setup)
+Commit: 07ff9d6178ede9a1bd12ad3399074d726ebe6e43
+Date: 2026-03-17T18:09:23Z
+Electron: 39.8.0
+ElectronBuildId: 13470701
+Chromium: 142.0.7444.265
+Node.js: 22.22.0
+V8: 14.2.231.22-electron.0
+OS: Windows_NT x64 10.0.26100
